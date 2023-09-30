@@ -18,6 +18,9 @@
 <img align="center" alt="tailwind_CSS" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 
 </div>
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeanpk12&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 <br> 
 
