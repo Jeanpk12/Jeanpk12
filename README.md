@@ -1,5 +1,9 @@
 ### Olá! eu sou o jean Oliveira 🖖
 
+Sou apaixonado por tecnologia e de como ela nos permite transformar ideias em soluções para o mundo real. 
+
+<br>
+
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jean-oliveira-145836293/)
 [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5515996298942)
 
@@ -22,10 +26,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeanpk12&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
-<br> 
-
-Sou apaixonado por tecnologia e de como ela nos permite transformar ideias em soluções para o mundo real. 
-
-<br>
 
 E-mail para contato: jeanolivera123@gmail.com
