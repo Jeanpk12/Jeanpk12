@@ -1,7 +1,7 @@
 # Olá! Meu nome é Jean Oliveira 🖖
 
-Sou estudante de Análise e Desenvolvimento de Sistemas e tenho paixão por desenvolver soluções performáticas e escaláveis, combinando meu conhecimento em tecnologias de front-end e back-end. Minha experiência inclui HTML, CSS, JavaScript, TypeScript, Tailwind, Node.js, Express, PHP e MySQL. Recentemente, tenho focado na integração de modelos de linguagem (OpenAI API, Gemini API) em aplicações web para criar soluções inovadoras baseadas em inteligência artificial.
-
+Estudante de Análise e Desenvolvimento de Sistemas com experiência em Python, Javascript e frameworks como React.js, Vue.js, Node.js, Express e Flask. Habilidade em integrar modelos de IA (OpenAI API, Gemini API e Llama) em aplicações web para criar soluções inteligentes, com foco em automação e otimização de processos. Experiência na extração e organização de dados com Python e IA generativa, resultando em aumento
+significativo de eficiência.
 
 <br>
 
