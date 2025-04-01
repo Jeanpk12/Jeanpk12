@@ -71,8 +71,6 @@
 * **Llama-Step-by-Step:** Assistente IA para resolução de problemas passo a passo com Llama 3.1 via Groq API (JavaScript, Bun.js, Groq API).
 * **Llama-Infinite-Quiz:** Quiz dinâmico em Vue.js com questões geradas por IA via Groq SDK (Vue.js, Groq SDK).
 
-*(Você pode adicionar outros projetos relevantes aqui também, se desejar)*
-
 ---
 
 ## 📊 Minhas Estatísticas no GitHub
