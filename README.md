@@ -46,7 +46,7 @@
     ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
     ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
     ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
+    ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 * **IA & Machine Learning:**
     ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
     ![Google Gemini](https://img.shields.io/badge/Google_Gemini-4A80F5?style=for-the-badge&logo=google&logoColor=white) ![LLaMA](https://img.shields.io/badge/LLaMA-B0B0B0?style=for-the-badge)
@@ -63,7 +63,7 @@
 <div align="center">
 
   [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Jeanpk12&repo=project_smart&theme=cobalt&show_owner=true)](https://github.com/Jeanpk12/project_smart) [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Jeanpk12&repo=JurisScanner&theme=cobalt&show_owner=true)](https://github.com/Jeanpk12/JurisScanner) [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Jeanpk12&repo=Llama-Step-by-Step&theme=cobalt&show_owner=true)](https://github.com/Jeanpk12/Llama-Step-by-Step) [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Jeanpk12&repo=llama-infinite-quiz&theme=cobalt&show_owner=true)](https://github.com/Jeanpk12/llama-infinite-quiz)
-  
+
 </div>
 
 * **Project_Smart:** Aplicação web educacional com Gemini API e Streamlit para auxiliar no aprendizado de programação (Python, Streamlit, Google Gemini).
